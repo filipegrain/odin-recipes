@@ -1,0 +1,19 @@
+img {
+      height: auto;
+      width: 300px;
+}
+
+h1 {
+      text-align: center;
+      background-color: rgb(32, 32, 32);
+      color: white;
+}
+
+#recipes-list {
+      font-size: 24px;
+}
+
+* {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      background-color: antiquewhite;
+}
